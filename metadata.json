@@ -1,0 +1,7 @@
+{
+  "name": "Version 3",
+  "description": "A specialized tool for tutors to convert past examination papers into beautifully formatted WhatsApp trial questions with automatic rearrangement and formatting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

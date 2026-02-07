@@ -1,0 +1,18 @@
+
+{
+  "name": "Mr. Wise Tutor Assistant",
+  "short_name": "Mr. Wise",
+  "description": "WAEC/NABTEB WhatsApp Tutor Assistant",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5351/5351486.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
